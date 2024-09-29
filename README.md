@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm currently in my second year of MCM (Master of 
 
 ## 🚀 About Me
 
-- 🎓 I'm studying at Aisoni College and currently in my second year.
+- 🎓 I'm studying at G. H. Raisoni College and currently in my second year.
 - 💻 I have a strong interest in JavaScript, ReactJS, PHP, VB.NET, Python, Next.js, TailwindCSS, Bootstrap, MongoDB, SQL, and PHPMyAdmin.
 - 🌐 I have knowledge in SEO and how to rank web pages.
 - 🔨 I'm currently developing a Time Table Management System for my college.
